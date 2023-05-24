@@ -1,0 +1,10 @@
+node_modules
+.nuxt
+
+*.json
+*.css
+
+.eslintrc.js
+
+README.md
+yarn.lock
